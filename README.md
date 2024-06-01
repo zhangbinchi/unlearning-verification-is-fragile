@@ -1,6 +1,6 @@
 # Unlearning Verification is Fragile
 
-The code is associated with *Verification of Machine Unlearning is Fragile* (ICML 2024). We provide two adversarial unlearning methods against unlearning verification.
+The code is associated with "*Verification of Machine Unlearning is Fragile*" (ICML 2024). We provide two adversarial unlearning methods against unlearning verification.
 
 ## Retraining-based Adversarial Unlearning
 
