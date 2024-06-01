@@ -1,6 +1,6 @@
 # Adversarial Unlearning Against Verification
 
-The code is associated with *Verification of Machine Unlearning is Fragile*.
+The code is associated with *Verification of Machine Unlearning is Fragile* (ICML 2024).
 
 ## Retraining-based Adversarial Unlearning
 
